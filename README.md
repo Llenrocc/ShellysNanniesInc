@@ -1,3 +1,2 @@
-# ShellysNanniesInc.
+# Shelly sNannies Inc.
  
-# ShellysNanniesInc
