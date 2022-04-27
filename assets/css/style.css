@@ -304,7 +304,15 @@ h1, h2, h3, h4, h5, h6 {
   animation-delay: 0.4s;
   color: #fff;
   margin-top: 10px;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+}
+
+#hero h3 {
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  color: #fff;
+  margin-top: 10px;
+  
 }
 
 @media (min-width: 1200px) {
