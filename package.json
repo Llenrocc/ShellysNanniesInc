@@ -1,0 +1,25 @@
+{
+  "name": "shellys-nannies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "boxicons": "^2.1.1",
+    "node-sass": "^7.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Llenrocc/ShellysNanniesInc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Llenrocc/ShellysNanniesInc/issues"
+  },
+  "homepage": "https://github.com/Llenrocc/ShellysNanniesInc#readme"
+}
